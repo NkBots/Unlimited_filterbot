@@ -1,11 +1,11 @@
 StartTxT = """
 Hello {mention}
 
-I'm an advanced filter bot with many capabilities!
+I'm an Advanced Filter Bot!
 
-There is no practical limits for my filtering capacity :)
+This bot is made for @Serieslandofkerela :)
 
-See help button for commands and more details
+⭐️ Share My Group and Support me Maximum
 """
 
 HelpTxT = """
@@ -34,13 +34,13 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @Mo_Tech_YT
+© @serieslandofkerela
 """
 
 AboutTxT = """
-⭕️ My Name : TroJanz Filter Bot</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
+⭕️ My Name : Allu Arjun</b>
+⭕️ Developers : @dark_an_g1
+⭕️ Upgrader : @serieslandofkerela
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
